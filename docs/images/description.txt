@@ -1,0 +1,1 @@
+This folder entails the pictures that would be hyperlinked in the main html document.
